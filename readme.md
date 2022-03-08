@@ -1,3 +1,3 @@
 # Mega Banette Sculpt
 
-![](./Mega_Banette_final.png)
+![](./Mega_Banette_Final.png)
