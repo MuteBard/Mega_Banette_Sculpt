@@ -1,4 +1,4 @@
-# DEV-08,
+# DEV-08, Posing
 ### Tags: []
 ### Link:[<>]
 
@@ -10,15 +10,6 @@
 
 ![](../images/DEV-08/DEV-08-A4.png)
 
-![](../images/DEV-08/DEV-08-A5.png)
+![](../../Mega_Banette3.png)
 
-![](../images/DEV-08/DEV-08-A6.png)
-
-![](../images/DEV-08/DEV-08-A7.png)
-
-![](../images/DEV-08/DEV-08-A8.png)
-
-![](../images/DEV-08/DEV-08-A9.png)
-
-![](../images/DEV-08/DEV-08-A10.png)
-
+![](../../Mega_Banette4.png)
