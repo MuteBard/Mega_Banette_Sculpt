@@ -18,6 +18,8 @@
 
 ![](../images/DEV-08/DEV-08-A6.png)
 
+![](../images/DEV-08/DEV-08-A7.png)
+
 ![](../../Mega_Banette3.png)
 
 ![](../../Mega_Banette4.png)
